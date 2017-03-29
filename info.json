@@ -1,0 +1,11 @@
+{
+	"name": "DelticHonk",
+	"version": "0.14.1",
+	"factorio_version": "0.14",
+	"title": "Deltic Honk",
+	"author": "Michael Cowgill (ChurchOrganist)",
+	"contact": "jmcowgill@gmail.com",
+	"homepage": "",
+	"description": "A blatant hack of Gotlag's original Honk mod which changes the sounds to Deltic horns. Trains honk when stopping. And starting. And on command.",
+	"dependencies": ["base >= 0.13.0"]
+}
