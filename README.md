@@ -1,4 +1,4 @@
-Deltic Honk 0.14.01 by Michael Cowgill (ChurchOrganist)
+Deltic Honk 0.15.2 by Michael Cowgill (ChurchOrganist)
 
 This is a blatant hack of Gotlag's mod Honk which adds train horns to Factorio. 
 
