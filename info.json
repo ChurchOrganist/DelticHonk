@@ -6,6 +6,6 @@
 	"author": "Michael Cowgill (ChurchOrganist)",
 	"contact": "jmcowgill@gmail.com",
 	"homepage": "",
-	"description": "A blatant hack of Gotlag's original Honk mod which changes the sounds to Deltic horns. Trains honk when stopping. And starting. And on command.",
+	"description": "A blatant hack of Gotlag's original Honk mod which changes the sounds to Deltic horns. Trains honk when stopping. And starting. And on command. This version fixes a Hotkey clash with Nexela's Picker Extended mod. If you are not using Picker Extended then you should continue to use Deltic Honk 0.15.1",
 	"dependencies": ["base >= 0.15.0"]
 }
