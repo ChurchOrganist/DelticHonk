@@ -1,11 +1,11 @@
-Deltic Honk  0.15.2 is released under the MIT license.
+Deltic Honk  0.15.3 is released under the MIT license.
 
 Informally, this means you can 
 do basically whatever with it you like, as long as you leave this file intact.
 
 The full legalese is below.
 
-Deltic Honk 0.15.2 is Copyright © 2017 Michael Cowgill (Church Organist), Gotlag and others.
+Deltic Honk 0.15.3 is Copyright © 2017 Michael Cowgill (Church Organist), Gotlag and others.
 
 Acknowledgements
 Thank you to Gotlag who programmed the original Honk mod.

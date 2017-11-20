@@ -54,15 +54,17 @@ script.on_event("honk", function(event)
     end
   end
 end)
---[[ Commented out to fix clash with Picker Extended
+
 script.on_event("toggle-train-control", function(event)
-  local player = game.players[event.player_index]
-  if player.vehicle then
-    if player.vehicle.type == "locomotive" then
-      player.vehicle.train.manual_mode = not player.vehicle.train.manual_mode
+  if not game.active_mods["PickerExtended"] then
+    local player = game.players[event.player_index]
+    if player.vehicle then
+      if player.vehicle.type == "locomotive" then
+        player.vehicle.train.manual_mode = not player.vehicle.train.manual_mode
+      end
     end
   end
-end)--]]
+end)
 
 script.on_event(defines.events.on_train_changed_state, function(event)
   if HONK_ON_START and event.train.state == defines.train_state.on_the_path then
