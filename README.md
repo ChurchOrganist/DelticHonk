@@ -1,3 +1,5 @@
+Please Note: I'm not planning to produce a version for Factorio 0.16 as Nexela has incorporated Deltic Honk into the 0.16 version of Picker Extended (with my approval).
+
 Deltic Honk 0.15.3 by Michael Cowgill (ChurchOrganist)
 
 This is a blatant hack of Gotlag's mod Honk which adds train horns to Factorio. 
